@@ -48,4 +48,4 @@ spec:
   ports:
   - port: 8080
   selector:
-    name: api
+    name: frontend
